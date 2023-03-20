@@ -9,4 +9,9 @@ cd GcashFarm
 
 ls
 
+pip install -r requirements.txt
+
 python GCASH.py
+
+USER: GCASH
+PASS: GCASH
